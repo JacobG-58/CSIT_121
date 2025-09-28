@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(151, 135, 135);
+}
+
+
+main h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: cursive;
+    
+    
+}
+
+
+main nav {
+    background-color: rgb(106, 106, 110);
+    border: 7px groove rgb(161, 148, 70);
+    text-align: center;
+    font-size: 40px;
+
+}
+
+main nav ul {
+    display: ruby;
+    text-align: center;
+    color: rgb(106, 106, 110);
+    
+
+}
+
+.nav {
+    color: rgb(255, 255, 255);
+    text-decoration: double;
+    border: 2.5px solid;
+    border-color: rgb(156, 148, 98);
+    background-color: rgb(97, 104, 104);
+    padding-left: 10px;
+    padding-right: 10px;
+
+}

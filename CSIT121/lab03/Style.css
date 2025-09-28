@@ -1,0 +1,50 @@
+
+#main-title {
+color: antiquewhite;
+text-align: center;
+font-size: 100px;
+font-family: monospace;
+
+}
+body {
+    background-color: darkslategray;
+  }
+  
+.lab-title {
+  color: lightblue;
+  font-size: 40px;
+  border: 5px outset;
+  text-align: center;
+
+}
+
+.links   {
+    color: goldenrod;
+    text-decoration:underline;
+
+  }
+  
+p { 
+    color: white;
+    font-family: Arial;
+    font-size: 15px;
+  }
+
+h2 {
+    color: lightblue;
+    text-decoration: underline;
+    border: 5px inset gray;
+    padding: 5px;
+  }
+
+ol {
+    color: white;
+  }
+
+ul {
+    color: white;
+  }
+
+
+
+  
